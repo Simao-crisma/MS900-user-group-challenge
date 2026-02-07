@@ -1,13 +1,25 @@
-Desafio 6 – Gestão do Ciclo de Vida LearnIT
-Este diretório documenta o processo de desativação de conta (offboarding) do utilizador João Miguel Costa, demonstrando as boas práticas de segurança e conformidade no Microsoft 365.
+# Desafio 6 – Gestão do Ciclo de Vida LearnIT
+*desafio inplantada pela learnit  tem como o objectivo na gestão do ciclo de vida dos usuarios.
+   É importante pois permite ou serve para garantir que os usuarios  tenham acesso aos recursos necessarios para
+   realizar suas tarefas e que os recursos sejam removidos quando não forem mais necessarios ou utilizados
+   portanto os usuarios podem ser sujeito a bloqueios de login, a remoção de licença, a eliminação em um determinado grupo 
+   ou mesmo na plataforma entre outras acessos ou recursos*.
+   
+Este diretório apresenta o processo de desativação de conta (offboarding) , eliminação e a retenção do utilizador João Miguel Costa, demonstrando as boas práticas de segurança e conformidade no Microsoft 365.
 
-Procedimento Técnico Executado
+# Procedimento Técnico Executado
 Para garantir a proteção dos dados e a gestão eficiente dos recursos, foram realizadas as seguintes etapas:
 
-Bloqueio de Sessão: Suspensão imediata do início de sessão para impedir o acesso a e-mails e ficheiros da organização.
-Eliminação de Utilizador: Remoção da identidade da lista de utilizadores ativos e libertação automática das licenças associadas para reutilização.
-Validação de Retenção: Verificação da conta no diretório de utilizadores eliminados, onde o sistema garante a possibilidade de restauro total num período de carência de 30 dias.
-Evidências do Processo
-bloqueio-login.png: Demonstra o utilizador com o estado "Início de sessão bloqueado" a vermelho no portal.
-confirmacao-eliminacao.png: Captura de ecrã da mensagem de sucesso do sistema após o comando de eliminação.
-utilizador-eliminado-lista.png: Comprovação de que o utilizador se encontra na área de "Utilizadores eliminados" para fins de conformidade.
+    tarefa: bloqueio de login, remoção de licença, eliminação de um utilizador.
+     
+  **Bloquear de login**: no centro de administração do ms365 , na seção usuario, selecione o usuario ou de um clicke no usuario
+    posteriomente clicar em bloquear login e confirmar.
+           
+   **Remoção de licença**:no centro de administração do ms365 , na seção usuario, selecione o usuario ou de um clicke no usuario
+    clique em licença, seleciona a licença que desejas remover, clique em remover.
+
+  **Eliminação de um utilizador**:no centro de administração do ms365 , na seção usuario, selecione o usuario ou de um clicke no usuario
+     clique em eliminar utilizador, confirme a eliminação.
+     
+*A retenção da conta é feita dentro de um periodo de 30 dias*.
+               
