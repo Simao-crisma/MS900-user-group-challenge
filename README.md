@@ -1,2 +1,2 @@
-# MS900-user-group-challenge
+# MS900-users-groups-challenge
 
