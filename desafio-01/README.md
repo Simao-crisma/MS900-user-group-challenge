@@ -3,9 +3,11 @@ Este arquivo contém as evidências da criação dos utilizadores no Microsoft36
 ## Utilizadores Criados
 Foram criadas três contas de utilizadores ativos utilizando o domínio: @M365x83515294.onmicrosoft.com
 
-Carlos Manuel Silva (carlos.silva@M365x83515294.onmicrosoft.com)
-Ana Paula Ferreira (ana.ferreira@M365x83515294.onmicrosoft.com)
-João Miguel Costa (joao.costa@M365x83515294.onmicrosoft.com)
+**Carlos Manuel Silva** -carlos.silva@M365x83515294.onmicrosoft.com
+
+**Ana Paula Ferreira** - ana.ferreira@M365x83515294.onmicrosoft.com
+
+**João Miguel Costa** - joao.costa@M365x83515294.onmicrosoft.com
 
 ## Evidências
 A imagem em anexo comprova que os usuarios foram criados, respeitando a nomenclatura oficial.
