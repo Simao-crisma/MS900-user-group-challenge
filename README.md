@@ -1,4 +1,4 @@
-# MS900-users-groups-challenge
+# MS900 Microsoft-365-admin
 
 Comecei a solucionar o challenge implementada pela #learnit na Microsoft 365 admin
 
