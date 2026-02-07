@@ -1,0 +1,17 @@
+ O quarto desafio inplantada pela learnit  tem como o objectivo na gestão do ciclo de vida dos usuarios.
+   É importante pois permite ou serve para garantir que os usuarios  tenham acesso aos recursos necessarios para
+   realizar suas tarefas e que os recursos sejam removidos quando não forem mais necessarios ou utilizados
+   portanto os usuarios podem ser sujeito a bloqueios de login, a remoção de licença, a eliminação em um determinado grupo 
+   ou mesmo na plataforma entre outras acessos ou recursos.
+     
+       tarefa: bloqueio de login, remoção de licença, eliminação de um utilizador.
+     
+    Bloquear de login: no centro de administração do ms365 , na seção usuario, selecione o usuario ou de um clicke no usuario
+    posteriomente clicar em bloquear login e confirmar.
+           
+   Remoção de licença:no centro de administração do ms365 , na seção usuario, selecione o usuario ou de um clicke no usuario
+    clique em licença, seleciona a licença que desejas remover, clique em remover.
+
+    Eliminação de um utilizador:no centro de administração do ms365 , na seção usuario, selecione o usuario ou de um clicke no usuario
+     clique em eliminar utilizador, confirme a eliminação.
+               A retenção da conta é feita dentro de um periodo de 30 dias.
