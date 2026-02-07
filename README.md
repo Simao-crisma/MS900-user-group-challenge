@@ -7,7 +7,7 @@ ambiente do Microsoft 365 admin é a interface centralizada para gerenciar todos
    
 ## O objetivo deste desafio foi:
 
-** A criação de usuários;**
+**A criação de usuários**;
 
 ** A criação de grupos;**
 
