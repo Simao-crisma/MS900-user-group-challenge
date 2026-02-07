@@ -9,10 +9,10 @@ ambiente do Microsoft 365 admin é a interface centralizada para gerenciar todos
 
 **A criação de usuários**;
 
-** A criação de grupos;**
+**A criação de grupos**;
 
-** Licenciamento por grupo;**
+**Licenciamento por grupo**;
 
-** Gestão e ciclo de vida.**
+**Gestão e ciclo de vida**;
 
  O desafio foi concluído com sucesso, onde houve muito aprendizado, novas experiências foi muito proveitoso e continuamos com a exploração!
