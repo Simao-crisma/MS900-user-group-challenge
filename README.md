@@ -24,11 +24,10 @@ Gestão de utilizadores: Criação e configuração de usuários na  estrutura o
 ## Estrutura do Repositório
 O repositório está estruturado da seguinte forma:
 
-**/desafio-01/: Criação de Utilizadores.**
-**/desafio-03/: Criação de Grupos.**
-**/desafio-04/: administrar de Membros.**
-**/desafio-05/: Licenciamento por Grupo.**
-**/desafio-06/: Gestão do Ciclo de Vida.**
+**desafio-01/: Criação de Utilizadores.**
+**desafio-02/: Criação de Grupos.**
+**desafio-03/: Licenciamento por Grupo.**
+**desafio-04/: Gestão do Ciclo de Vida.**
 
 
 
